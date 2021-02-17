@@ -1,4 +1,4 @@
 # tetris game
 ## Requirements
-*python
-*pygame
+* python
+* pygame
